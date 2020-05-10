@@ -62,7 +62,7 @@ module.exports = function(grunt) {
                 timeout: 3000,
                 ignoreLeaks: false,
                 ui: 'bdd',
-                reportFormats: ['lcov','html'],
+                reportFormats: ['lcov','html','cobertura'],
                 print: 'both',
                 istanbulOptions: ['--no-default-excludes', '-i','**/packages/node_modules/**']
             },
