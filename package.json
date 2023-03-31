@@ -108,7 +108,7 @@
         "supertest"
     },
     "engines": {
-        "node"
+        "node" : ">=8"
     }
 }
 
