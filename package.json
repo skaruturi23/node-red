@@ -104,7 +104,7 @@
         "should",
         "sinon",
         "stoppable",
-        "supertest
+        "supertest"
     },
     "engines": {
         "node"
