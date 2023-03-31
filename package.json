@@ -72,7 +72,7 @@
         "bcrypt"
     },
     "devDependencies": {
-        "marked"
+        "marked",
         "dompurify",
         "grunt",
         "grunt-chmod",
@@ -105,7 +105,7 @@
         "should",
         "sinon",
         "stoppable",
-        "supertest
+        "supertest"
     },
     "engines": {
         "node"
